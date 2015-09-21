@@ -5,16 +5,25 @@
   "bedrooms": 15,
   "image": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Crane_estate_(5).jpg"
   }, {
-    "owner": "Mike Teavee",
-    "city": "Seattle",
-    "type": "Condo",
-    "bedrooms": 1,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Alfonso_13_Highrise_Tegucigalpa.jpg"
-    }, {
-      "owner": "Violet Beauregarde",
-      "city": "Portland",
-      "type": "Apartment",
-      "bedrooms": 3,
-      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Wheeldon_Apartment_Building_-_Portland_Oregon.jpg"
-      }]
-    }
+  "owner": "Mike Teavee",
+  "city": "Seattle",
+  "type": "Condo",
+  "bedrooms": 1,
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Alfonso_13_Highrise_Tegucigalpa.jpg"
+  }, {
+  "owner": "Violet Beauregarde",
+  "city": "Portland",
+  "type": "Apartment",
+  "bedrooms": 3,
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Wheeldon_Apartment_Building_-_Portland_Oregon.jpg"
+  }],
+
+  "cities":[{
+  "cityName": "Portland",
+  "attractions": ["Waterfront", "Oregon Zoo", "International Rose Test Garden"]
+  },
+  {
+  "cityName": "San Francisco",
+  "attractions": ["Alcatraz", "Pier 39", "Golden Gate Bridge"] 
+  }]
+}

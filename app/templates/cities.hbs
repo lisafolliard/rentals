@@ -1,5 +1,9 @@
+<h2>Cities</h2>
+
 <ul>
   {{#each model as |city|}}
     {{city-tile city=city}}
   {{/each}}
 </ul>
+
+{{#link-to 'index'}}Rentals{{/link-to}}

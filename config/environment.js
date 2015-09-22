@@ -5,7 +5,7 @@ module.exports = function(environment) {
     modulePrefix: 'awesome-rentals',
     environment: environment,
     contentSecurityPolicy: { 'connect-src': "'self' https://auth.firebase.com wss://*.firebaseio.com" },
-    firebase: 'https://awesome-rentals9.firebaseio.com/',
+    firebase: 'https://cool-rentals.firebaseio.com/',
     baseURL: '/',
     locationType: 'auto',
     EmberENV: {
